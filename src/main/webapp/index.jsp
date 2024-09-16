@@ -106,7 +106,7 @@
             <img src="https://via.placeholder.com/150" alt="Product Image">
             <div class="product-details">
                 <div class="product-title">vineetha redddy</div>
-                <div class="product-price">₹freeeeeeeeeeeeeeeeeeeeeeeeeee</div>
+                <div class="product-price">₹love</div>
             </div>
         </div>
 
@@ -114,7 +114,7 @@
             <img src="https://via.placeholder.com/150" alt="Product Image">
             <div class="product-details">
                 <div class="product-title">vineetha reddy</div>
-                <div class="product-price">₹freeeeeeeeeeeeeeeeeee</div>
+                <div class="product-price">₹love</div>
             </div>
         </div>
     </div>
